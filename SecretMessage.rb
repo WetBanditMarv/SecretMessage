@@ -124,8 +124,8 @@ def play_me(operating)
   else
     sleep 1
     puts "\nUnable to find your operating system."
-    puts "You can go to the video here if you'd like: https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-    puts "Otherwise, just humm the lyrics to yourself..."
+    puts "\nYou can go to the video here if you'd like: https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    puts "\nOtherwise, just humm the lyrics to yourself..."
   end
 end
 
